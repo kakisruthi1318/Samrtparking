@@ -1,0 +1,6 @@
+{
+  "name": "Smart Parking Finder",
+  "description": "Real-time parking slot reservation and management system with live slot visualization, ACID transactions, and automated reservation expiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
